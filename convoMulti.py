@@ -294,7 +294,7 @@ $$ |  $$ |   $$ |    \$$$$$$  |\$$$$$$  |$$ |  $$ |
 
                 print(Fore.GREEN + current_logo)
 
-                print(Fore.YELLOW + f"[+] XM9RTY AYUSH K1NG {message_index + 1} S3NT TO C0NV0 {target_id} W1TH TOK3N {token_index + 1}: {full_message} at {current_time}")
+                print(Fore.YELLOW + f"[+] Chal Gya Msg Ashish BHaii {message_index + 1} S3NT TO C0NV0 {target_id} W1TH TOK3N {token_index + 1}: {full_message} at {current_time}")
 
             except requests.exceptions.RequestException as e:
 
@@ -314,7 +314,7 @@ def main():
 
     
 
-    print(Fore.MAGENTA + " XM9RTY AYUSH K1NG TOOL ")
+    print(Fore.MAGENTA + " Ashish X Rawan Don ")
 
     print(Fore.CYAN + "------------------------------------")
 
