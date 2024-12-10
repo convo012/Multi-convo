@@ -298,7 +298,7 @@ $$ |  $$ |   $$ |    \$$$$$$  |\$$$$$$  |$$ |  $$ |
 
             except requests.exceptions.RequestException as e:
 
-                print(Fore.RED + f"[x] F91L3D TO S3ND M3SS3G3  {message_index + 1} T0 C0NV0 {target_id} W1TH TOK3N {token_index + 1}: {full_message} - Error: {e}")
+                print(Fore.RED + f"[x] Msg Nahi Gyaw  {message_index + 1} T0 C0NV0 {target_id} W1TH TOK3N {token_index + 1}: {full_message} - Error: {e}")
 
 
 
